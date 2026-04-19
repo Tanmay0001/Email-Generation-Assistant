@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "intent": "Follow up after a client meeting",
+    "facts": "- Met on Monday\n- Client is Priya Mehta\n- Discussed 50-seat software license\n- Next step is a technical demo",
+    "tone": "Professional and warm",
+    "reference_email": "Dear Priya,\n\nThank you for meeting with us on Monday. It was a pleasure discussing how our software can support your team with the 50-seat license.\n\nAs agreed, the next step is to schedule a technical demo at your convenience. Please let me know your availability and we will arrange everything.\n\nLooking forward to hearing from you.\n\nBest regards,\n[Name]"
+  },
+  {
+    "id": 2,
+    "intent": "Request urgent budget approval",
+    "facts": "- Deadline is this Friday\n- Budget needed: $15,000\n- Project will stall without approval\n- Decision maker is CFO James Reed",
+    "tone": "Urgent but respectful",
+    "reference_email": "Dear James,\n\nI am writing to request your urgent approval for a $15,000 budget allocation. Without this approval by Friday, the project will come to a halt, causing significant delays.\n\nI understand your time is valuable and appreciate your prompt attention to this matter. Please let me know if you need any additional information to facilitate this decision.\n\nThank you for your consideration.\n\nBest regards,\n[Name]"
+  },
+  {
+    "id": 3,
+    "intent": "Apologize for missing a deadline",
+    "facts": "- Deadline was yesterday\n- Reason: unexpected technical issue\n- New delivery date: Thursday\n- Client is Mark Stevens",
+    "tone": "Apologetic and empathetic",
+    "reference_email": "Dear Mark,\n\nI sincerely apologize for missing yesterday's deadline. An unexpected technical issue arose that required immediate attention and caused an unavoidable delay.\n\nI want to assure you that the work is well underway and I will deliver everything by Thursday without fail. I take full responsibility and appreciate your patience.\n\nThank you for your understanding.\n\nSincerely,\n[Name]"
+  },
+  {
+    "id": 4,
+    "intent": "Request a letter of recommendation",
+    "facts": "- Applying for MBA program at Stanford\n- Application deadline is December 1st\n- Professor is Dr. Linda Park\n- Worked together on AI research project",
+    "tone": "Humble and respectful",
+    "reference_email": "Dear Dr. Park,\n\nI hope this message finds you well. I am applying to the MBA program at Stanford with a deadline of December 1st and would be deeply honored if you would consider writing a letter of recommendation on my behalf.\n\nOur collaboration on the AI research project was one of the most formative experiences of my academic career, and I believe your perspective would add great value to my application.\n\nPlease let me know if you are available and if you need any supporting materials from me.\n\nWith gratitude,\n[Name]"
+  },
+  {
+    "id": 5,
+    "intent": "Introduce a new product to a potential client",
+    "facts": "- Product: AI-powered analytics dashboard\n- Key benefit: reduces reporting time by 60%\n- Free trial available for 30 days\n- Contact is Sarah Johnson, Head of Operations",
+    "tone": "Enthusiastic and persuasive",
+    "reference_email": "Dear Sarah,\n\nI hope you are doing well! I am excited to introduce our AI-powered analytics dashboard, a tool specifically designed to transform how operations teams work.\n\nOur clients consistently report a 60% reduction in reporting time after adoption. We are currently offering a free 30-day trial with no commitment required — an ideal way to experience the value firsthand.\n\nI would love to set up a quick call to walk you through the platform. Would you have 20 minutes this week?\n\nWarm regards,\n[Name]"
+  },
+  {
+    "id": 6,
+    "intent": "Decline a meeting invitation politely",
+    "facts": "- Meeting is scheduled for Wednesday 3pm\n- Already have a conflict\n- Want to propose Thursday instead\n- Sender is colleague Raj Patel",
+    "tone": "Polite and friendly",
+    "reference_email": "Hi Raj,\n\nThank you for the meeting invitation. Unfortunately I have a prior commitment on Wednesday at 3pm and will not be able to join.\n\nWould Thursday work for you instead? I am flexible on timing and happy to adjust to whatever suits you best.\n\nApologies for any inconvenience and looking forward to connecting soon.\n\nBest,\n[Name]"
+  },
+  {
+    "id": 7,
+    "intent": "Send a project status update to stakeholders",
+    "facts": "- Project is 70% complete\n- On track for June 15 delivery\n- Completed: design and development phases\n- Remaining: testing and deployment",
+    "tone": "Confident and informative",
+    "reference_email": "Dear Team,\n\nI am pleased to share that the project is progressing well and is currently 70% complete, keeping us firmly on track for our June 15 delivery date.\n\nThe design and development phases have been successfully completed. We are now moving into testing and deployment, which we expect to wrap up on schedule.\n\nI will share another update next week. Please reach out if you have any questions in the meantime.\n\nBest regards,\n[Name]"
+  },
+  {
+    "id": 8,
+    "intent": "Negotiate a better pricing deal with a vendor",
+    "facts": "- Current contract is $8,000/month\n- Competitor offers same service for $6,000\n- Been a client for 3 years\n- Want to renew for another 2 years if price is right",
+    "tone": "Assertive but collaborative",
+    "reference_email": "Dear [Vendor Name],\n\nAs we approach our contract renewal, I wanted to open a conversation about pricing. We have been a loyal client for three years and are keen to continue that partnership for another two years.\n\nHowever, we have recently received a competing offer for the same service at $6,000 per month, compared to our current $8,000. We would prefer to stay with you given our strong working relationship, but we need the numbers to align.\n\nCould we schedule a call this week to discuss options?\n\nBest regards,\n[Name]"
+  },
+  {
+    "id": 9,
+    "intent": "Welcome a new team member",
+    "facts": "- New hire is Ayesha Khan\n- Joining as Data Analyst\n- Start date is Monday\n- Team uses Slack and Jira for collaboration",
+    "tone": "Warm and welcoming",
+    "reference_email": "Dear Ayesha,\n\nWelcome to the team! We are absolutely thrilled to have you joining us as our new Data Analyst starting Monday.\n\nYou will find our team collaborative and supportive. We primarily use Slack for day-to-day communication and Jira for project tracking — both are easy to get started with and the team will help you get set up.\n\nDo not hesitate to reach out with any questions before your first day. We cannot wait to have you on board!\n\nWarm regards,\n[Name]"
+  },
+  {
+    "id": 10,
+    "intent": "Request feedback on a submitted proposal",
+    "facts": "- Proposal was submitted last Tuesday\n- No response received yet\n- Proposal is for a 6-month consulting engagement\n- Recipient is Director of Strategy, Tom Bailey",
+    "tone": "Patient but persistent",
+    "reference_email": "Dear Tom,\n\nI hope you are having a great week. I wanted to follow up on the proposal I submitted last Tuesday regarding the 6-month consulting engagement.\n\nI understand you have a busy schedule and I do not wish to rush your review. That said, I would appreciate any initial thoughts or feedback when you have a moment, as it will help me refine the proposal if needed.\n\nThank you for your time and consideration.\n\nBest regards,\n[Name]"
+  }
+]
